@@ -1,0 +1,12 @@
+{
+    "duckdb.databases": [
+        {
+            "alias": "AtlanticCareAnalysis",
+            "type": "file",
+            "path": "c:\\Projects\\Data_Analysis_Project\\AtlantiCare Analysis\\data\\AtlanticCareAnalysis.duckdb",
+            "readOnly": true,
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "AtlanticCareAnalysis"
+}
